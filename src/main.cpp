@@ -22,16 +22,25 @@ class $modify(CreatorLayer) {
 			sprite->setScale(0.85);
 
 			if(nodeID == "featured-button")
+				node->setZOrder(-5);
+
+			if(nodeID == "lists-button")
 				node->setZOrder(-4);
-			
+
 			if(nodeID == "map-packs-button")
 				node->setZOrder(-3);
-			
-			if(nodeID == "lists-button")
+					
+			if(nodeID == "search-button")
 				node->setZOrder(-2);
-			
+
+			if(nodeID == "quests-button")
+				node->setZOrder(-1);
+		
 			if(nodeID == "search-button")
 				node->setZOrder(-1);
+
+			if(nodeID == "paths-button")
+				node->setZOrder(1);
 		}
 
 		AxisLayout* menuLayout = as<AxisLayout*>(m_creatorButtonsMenu->getLayout());
