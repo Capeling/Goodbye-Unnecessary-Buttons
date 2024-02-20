@@ -8,7 +8,8 @@
 		"android": "2.205"
 	},
 	"developer": "Capeling",
-	"description": "Removes The Versus, Map and Event buttons from CreatorLayer!",
+	"description": "Removes the Versus, Map and Event buttons from CreatorLayer!",
+	"repository": "https://github.com/Capeling/Goodbye-Unnecessary-Buttons",
 	"dependencies": [
         {
             "id": "geode.node-ids",
