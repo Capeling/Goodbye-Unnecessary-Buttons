@@ -1,4 +1,7 @@
 # Goodbye Unnecessary Buttons Changelog
+## v1.1.1
+- 2.2074 Support
+- Added support for GDDP
 ## v1.1.0
 - Swapped The Quests and Paths Buttons
 - Swapped The Lists and Map Packs Buttons
