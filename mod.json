@@ -12,9 +12,6 @@
 	"developer": "Capeling",
 	"description": "Removes The Versus and Map buttons!",
 	"dependencies": {
-		"geode.node-ids": {
-			"version": "*",
-			"importance": "required"
-		}
+		"geode.node-ids": ">=v1.10.0"
 	}
 }
