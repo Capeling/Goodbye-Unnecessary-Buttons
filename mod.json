@@ -13,5 +13,9 @@
 	"description": "Removes The Versus and Map buttons!",
 	"dependencies": {
 		"geode.node-ids": ">=v1.10.0"
+	},
+	"links": {
+		"homepage": "https://twitter.com/capelingg",
+		"source": "https://github.com/Capeling/Goodbye-Unnecessary-Buttons"
 	}
 }
