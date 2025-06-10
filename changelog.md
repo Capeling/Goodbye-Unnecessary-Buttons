@@ -1,4 +1,6 @@
 # Goodbye Unnecessary Buttons Changelog
+## v1.1.2
+- Fix scaling issue
 ## v1.1.1
 - 2.2074 Support
 - Added support for GDDP

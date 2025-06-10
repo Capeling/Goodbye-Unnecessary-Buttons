@@ -1,3 +1,3 @@
 # Goodbye Unnecessary Buttons
 
-Removes The Versus, Map and Event buttons from CreatorLayer!
+Removes The Versus and Map buttons from CreatorLayer!

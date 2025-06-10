@@ -64,9 +64,10 @@ class $modify(CreatorLayer) {
 		}
 
 		AxisLayout* menuLayout = as<AxisLayout*>(m_creatorButtonsMenu->getLayout());
-		menuLayout->setGap(13.5);
-		m_creatorButtonsMenu->getLayout()->ignoreInvisibleChildren(true);
-		as<AxisLayout*>(m_creatorButtonsMenu->getLayout())->setCrossAxisReverse(false);
+		menuLayout->setGap(8);
+		menuLayout->ignoreInvisibleChildren(true);
+		menuLayout->setAutoScale(false);
+		menuLayout->setCrossAxisReverse(false);
 		m_creatorButtonsMenu->updateLayout();
 		return true;
 	}
